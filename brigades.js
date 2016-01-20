@@ -1,4 +1,4 @@
-window.brigades = [
+window._brigades = [
   {
     "properties": {
       "latitude": 40.0176,
